@@ -1,1 +1,1 @@
-## subdomain takeover n.emailer.mtkc.gh.allegrogroup.com
+## subdomain takeover site.img2.mtkc.gh.allegrogroup.com
